@@ -1,0 +1,172 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`trie 1`] = `
+Trie {
+  "children": Object {
+    "c": Trie {
+      "children": Object {
+        "h": Trie {
+          "children": Object {
+            "i": Trie {
+              "children": Object {
+                "l": Trie {
+                  "children": Object {
+                    "d": Trie {
+                      "children": Object {
+                        "r": Trie {
+                          "children": Object {
+                            "e": Trie {
+                              "children": Object {
+                                "n": Trie {
+                                  "children": Object {},
+                                  "isEndOfWord": true,
+                                  "letter": "n",
+                                },
+                              },
+                              "isEndOfWord": false,
+                              "letter": "e",
+                            },
+                          },
+                          "isEndOfWord": false,
+                          "letter": "r",
+                        },
+                      },
+                      "isEndOfWord": false,
+                      "letter": "d",
+                    },
+                  },
+                  "isEndOfWord": false,
+                  "letter": "l",
+                },
+              },
+              "isEndOfWord": false,
+              "letter": "i",
+            },
+          },
+          "isEndOfWord": false,
+          "letter": "h",
+        },
+      },
+      "isEndOfWord": false,
+      "letter": "c",
+    },
+    "g": Trie {
+      "children": Object {
+        "o": Trie {
+          "children": Object {
+            "o": Trie {
+              "children": Object {
+                "g": Trie {
+                  "children": Object {
+                    "l": Trie {
+                      "children": Object {
+                        "e": Trie {
+                          "children": Object {},
+                          "isEndOfWord": true,
+                          "letter": "e",
+                        },
+                      },
+                      "isEndOfWord": false,
+                      "letter": "l",
+                    },
+                  },
+                  "isEndOfWord": false,
+                  "letter": "g",
+                },
+              },
+              "isEndOfWord": false,
+              "letter": "o",
+            },
+          },
+          "isEndOfWord": false,
+          "letter": "o",
+        },
+      },
+      "isEndOfWord": false,
+      "letter": "g",
+    },
+    "h": Trie {
+      "children": Object {
+        "o": Trie {
+          "children": Object {
+            "p": Trie {
+              "children": Object {
+                "e": Trie {
+                  "children": Object {},
+                  "isEndOfWord": true,
+                  "letter": "e",
+                },
+              },
+              "isEndOfWord": false,
+              "letter": "p",
+            },
+            "r": Trie {
+              "children": Object {
+                "s": Trie {
+                  "children": Object {
+                    "e": Trie {
+                      "children": Object {},
+                      "isEndOfWord": true,
+                      "letter": "e",
+                    },
+                  },
+                  "isEndOfWord": false,
+                  "letter": "s",
+                },
+              },
+              "isEndOfWord": false,
+              "letter": "r",
+            },
+            "u": Trie {
+              "children": Object {
+                "s": Trie {
+                  "children": Object {
+                    "e": Trie {
+                      "children": Object {},
+                      "isEndOfWord": true,
+                      "letter": "e",
+                    },
+                  },
+                  "isEndOfWord": false,
+                  "letter": "s",
+                },
+              },
+              "isEndOfWord": false,
+              "letter": "u",
+            },
+          },
+          "isEndOfWord": false,
+          "letter": "o",
+        },
+        "u": Trie {
+          "children": Object {
+            "m": Trie {
+              "children": Object {
+                "a": Trie {
+                  "children": Object {
+                    "n": Trie {
+                      "children": Object {},
+                      "isEndOfWord": true,
+                      "letter": "n",
+                    },
+                  },
+                  "isEndOfWord": false,
+                  "letter": "a",
+                },
+              },
+              "isEndOfWord": false,
+              "letter": "m",
+            },
+          },
+          "isEndOfWord": false,
+          "letter": "u",
+        },
+      },
+      "isEndOfWord": false,
+      "letter": "h",
+    },
+  },
+  "isEndOfWord": false,
+  "letter": "",
+}
+`;

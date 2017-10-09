@@ -1,0 +1,31 @@
+{
+  "name": "@zhuangya/trie",
+  "version": "0.0.1",
+  "description": "trie in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuangya/node-trie.git"
+  },
+  "keywords": [
+    "trie"
+  ],
+  "author": "Ya Zhuang <zhuangya@gmail.com> (https://zhuangya.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhuangya/node-trie/issues"
+  },
+  "homepage": "https://github.com/zhuangya/node-trie#readme",
+  "devDependencies": {
+    "babel-eslint": "^8.0.1",
+    "eslint": "^4.8.0",
+    "eslint-config-last": "0.0.3",
+    "eslint-config-prettier": "^2.6.0",
+    "eslint-plugin-prettier": "^2.3.1",
+    "jest": "^21.2.1",
+    "prettier": "^1.7.4"
+  }
+}
