@@ -1,5 +1,7 @@
 #Trie
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zhuangya/node-trie.svg)](https://greenkeeper.io/)
+
 [![NPM version][npm-image]][npm-url]
 [![Build status][travis-image]][travis-url]
 [![License][license-image]][license-url]
